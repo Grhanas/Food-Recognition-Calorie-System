@@ -93,6 +93,8 @@ Gebze Technical University
 2024
 
 ## Note
+<img width="370" height="721" alt="image" src="https://github.com/user-attachments/assets/7437a8e3-d94e-4434-a886-0a33e8f2df51" />
+
 <img width="302" height="572" alt="image" src="https://github.com/user-attachments/assets/f4c61655-3538-478f-8acc-aad2cb640ea7" />
 
 
