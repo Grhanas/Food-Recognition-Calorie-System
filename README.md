@@ -93,5 +93,7 @@ Gebze Technical University
 2024
 
 ## Note
+<img width="302" height="572" alt="image" src="https://github.com/user-attachments/assets/f4c61655-3538-478f-8acc-aad2cb640ea7" />
+
 
 This repository is intended as a portfolio-style summary of the project. The original thesis includes the full project explanation, dataset design, model selection, mobile integration details, experimental results, and conclusion.
